@@ -29,7 +29,7 @@ Studies indicate that music tastes are generally formed during the teenage years
 <!--Results-->
 <h4>Results</h4>
 *Results as of 29 October 2022:*
-![Bar Chart showing Number of Songs By Release Year in Playlist](chart/bar_chart_20221029.png)
+![Bar Chart showing Number of Songs By Release Year in Playlist](/chart/bar_chart_20221029.png)
 
 Most songs are found to be released from year 2004 to 2016, with the highest peak in 2013 and 2014. Year 2004 to 2016 correspond to significant landmark events in my life:
 - 2004 being the last year of primary school, with 2005 being the first year in secondary school, with significantly more freedom afforded
