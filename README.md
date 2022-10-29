@@ -34,6 +34,6 @@ Studies indicate that music tastes are generally formed during the teenage years
 
 
 Most songs are found to be released from year 2004 to 2016, with the highest peak in 2013 and 2014. Year 2004 to 2016 correspond to significant landmark events in my life:
-- 2004 being the last year of primary school, with 2005 being the first year in secondary school, with significantly more freedom afforded
+- 2004 being the last year of primary school, with 2005 being the first year in secondary school, with significantly more freedom afforded. It is possible that songs from the previous year were more in-the-mind during that period
 - 2016 is the last year before entering the workforce. Presumably after entering the workforce one has less time to be in tune with the latest music
 - 2013 and 2014 correspond to age 21 and 22, which is slightly different from the oft-quoted teenage years of 13-16 (for males)
