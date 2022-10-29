@@ -11,9 +11,9 @@ Studies indicate that music tastes are generally formed during the teenage years
 <br>
 <!--Built With: Language and Packages-->
 <h4>Built With</h4>
-**Language:** Python
+Language: Python
 <br>
-**Packages:** Spotipy, Matplotlib
+Packages: Spotipy, Matplotlib
 <br>
 <br>
 <!--Methodology Issues-->
