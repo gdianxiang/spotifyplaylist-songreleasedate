@@ -18,10 +18,8 @@ Packages: Spotipy, Matplotlib
 <br>
 <!--Methodology Issues-->
 <h4>Further Details & Caveats</h4>
-1. Spotify API does not directly provide the release date of the song, but rather the release date of the album the song belongs to and may not be the release year of the song itself. The song's release year and album release year can be different due to the following reasons:
-
-     - The song was released before the album was released (and in different year)
-     
+1. Spotify API does not directly provide the release date of the song, but rather the release date of the album the song belongs to and may not be the release year of the song itself. The song's release year and album release year can be different due to the following reasons:<br>
+     - The song was released before the album was released (and in different year)<br>
      - The song in the playlist may be attached to later compilation albums, data was not cleaned to ensure that the album attached to the song is the original album
      
 2. In my execution of the script, only my chinese language playlist was included in the test. Therefore, the results can only be indicative of my music taste with regards to chinese (and dialects) music.
